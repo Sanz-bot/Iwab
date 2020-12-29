@@ -55,6 +55,6 @@ you've just cloned!!
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 
 ## Group
-* [`WhatsApp`](https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v)
+* [`WhatsApp`](https://chat.whatsapp.com/K5YO1nq0EXL9uDrJ1wDhL9)
 ### Donate
-* [`Saweria`](https://saweria.co/donate/mhankbarbar)
+* [`WhatsApp`](https://wa.me/6285771853430)
