@@ -31,7 +31,7 @@ you've just cloned!!
 
 ### Usage
 ```bash
-> node index.Js
+> index node.Js
 ```
 
 ## Features
