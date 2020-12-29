@@ -22,10 +22,10 @@ async function start() {
 	})
 
 	client.on('credentials-updated', () => {
-		fs.writeFileSync('./BarBar.json', JSON.stringify(client.base64EncodedAuthInfo(), null, '\t'))
+		fs.writeFileSync('./Iwab.json', JSON.stringify(client.base64EncodedAuthInfo(), null, '\t'))
 	})
 
-	fs.existsSync('./BarBar.json') && client.loadAuthInfo('./BarBar.json')
+	fs.existsSync('./Iwab.json') && client.loadAuthInfo('./Iwab.json')
 
 	await client.connect({timeoutMs: 30*1000})
 
