@@ -4,7 +4,7 @@ KETIK
 
 $ pkg update && pkg upgrade
 $ pkg install git
-$ git clone https://github.com/MhankBarBar/termux-wabot
+$ git clone https://github.com/Sanz-bot/Iwab
 $ cd termux-wabot
 $ bash install.sh
 
@@ -16,7 +16,7 @@ Scan qr
 kalau gak bisa ketik
 
 
-$ git clone https://github.com/MhankBarBar/termux-wabot
+$ git clone https://github.com/Sanz-bot/Iwab
 $cd termux-wabot
 $bash install.sh
 $npn start
